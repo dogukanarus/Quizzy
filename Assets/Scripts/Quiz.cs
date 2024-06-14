@@ -99,7 +99,6 @@ public class Quiz : MonoBehaviour
     void DisplayQuestion()
     {
         currentQuestion = currentQuestions[progress];
-
         questionText.text = currentQuestion.GetQuestion();
 
         for (int i = 0; i < answerButton.Length; i++)
