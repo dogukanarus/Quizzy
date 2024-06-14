@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71b4c2fcf2135c241936e8e9f5ee519b, type: 3}
+  m_Name: Question 45
+  m_EditorClassIdentifier: 
+  question: "Edward Newgate'nin ba\u015F\u0131na koyulan \xF6d\xFCl ne kadard\u0131r?\t\t"
+  answers:
+  - 5.046.000.000
+  - 4.938.000.000
+  - 5.443.000.000
+  - 4.590.000.000
+  correctAnswerIndex: 0
+  questionDifficulty: 5
